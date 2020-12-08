@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Indonesian -->
+<resources>
+    <string name="app_name">Asteroid Radar</string>
+    <string name="next_week_asteroids">Lihat asteroid mingguan</string>
+    <string name="today_asteroids">Lihat asteroid hari ini</string>
+    <string name="saved_asteroids">Lihat asteroid yang disimpan</string>
+    <string name="close_approach_data_title">Tanggal mendekati</string>
+    <string name="estimated_diameter_title">Perkiraan diameter</string>
+    <string name="absolute_magnitude_title">Besaran mutlak</string>
+    <string name="relative_velocity_title">Kecepatan relatif</string>
+    <string name="distance_from_earth_title">Jarak dari bumi</string>
+    <string name="astronomical_unit_format">%f au</string>
+    <string name="km_unit_format">%f km</string>
+    <string name="km_s_unit_format">%f km/s</string>
+    <string name="image_of_the_day">Gambar hari ini</string>
+    <string name="astronomica_unit_explanation">Satuan astronomi (au) adalah satuan panjang, kira-kira jarak dari Bumi ke Matahari dan sama dengan sekitar 150 juta kilometer (93 juta mil)</string>
+    <string name="astronomical_unit_explanation_button">Definisi unit astronomi</string>
+    <string name="potentially_hazardous_asteroid_image">Gambar Asteroid yang berpotensi membahayakan</string>
+    <string name="not_hazardous_asteroid_image">Gambar bukan asteroid yg membahayakan</string>
+    <string name="this_is_nasa_s_picture_of_day_showing_nothing_yet">Ini adalah gambar NASA hari ini, belum menunjukkan apa-apa</string>
+    <string name="nasa_picture_of_day_content_description_format">Gambar NASA hari ini: %s</string>
+    <string name="no_internet_connection">Tidak ada koneksi internet</string>
+</resources>
